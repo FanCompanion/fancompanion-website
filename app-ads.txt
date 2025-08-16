@@ -1,0 +1,9 @@
+google.com, pub-4429095607624079, DIRECT, f08c47fec0942fa0   # Tayagotchi – Taylor Swift News
+google.com, pub-1111111111111111, DIRECT, f08c47fec0942fa0   # Arianimal
+google.com, pub-2222222222222222, DIRECT, f08c47fec0942fa0   # BangtanBuddy
+google.com, pub-3333333333333333, DIRECT, f08c47fec0942fa0   # Beyzie
+google.com, pub-4444444444444444, DIRECT, f08c47fec0942fa0   # Biebsy
+google.com, pub-5555555555555555, DIRECT, f08c47fec0942fa0   # Billiecado
+google.com, pub-6666666666666666, DIRECT, f08c47fec0942fa0   # K-Poppy
+google.com, pub-7777777777777777, DIRECT, f08c47fec0942fa0   # MetalliMate
+google.com, pub-8888888888888888, DIRECT, f08c47fec0942fa0   # Sabsy
